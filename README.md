@@ -1,4 +1,3 @@
-
 # Screen Grabber
 ## Introduction
 This Rust screen grabber is designed to provide a simple and efficient way to capture and annotate screenshots. It leverages EGUI for the user interface, ensuring a seamless and intuitive experience, and utilizes Skia for high-quality rasterization of annotations.
@@ -14,6 +13,17 @@ This Rust screen grabber is designed to provide a simple and efficient way to ca
 ## Usage
 - Upon launching the screen grabber, you will be presented with an intuitive user interface.
 - Use the available tools to capture screenshots, annotate them, and save or share the result.
+
+## Example Screenshot
+
+![Initial Interface](./screenshot/start.png)
+
+![Editor](./screenshot/editor.png)
+
+![Editing Example](./screenshot/editing.png)
+
+![Settings](./screenshot/settings.png)
+
 
 ## License
 This project is licensed under the [MIT License](./LICENSE). You are free to use, modify, and distribute the content, but please acknowledge the original work.
